@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "勿忘",
+  "base_artist": "Awesome City Club",
+  "createdAt": "2026-01-14T02:41:54.086211Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "勿忘 - From THE FIRST TAKE",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/01_勿忘_-_From_THE_FIRST_TAKE_Awesome_City_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "勿忘",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/02_勿忘_Awesome_City_Club.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "勿忘 - WASURENA",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/03_勿忘_-_WASURENA_Awesome_City_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "勿忘",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/04_勿忘_Awesome_City_Club.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "勿忘",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/05_勿忘_Awesome_City_Club.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "勿忘",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/06_勿忘_Uru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "勿忘",
+      "artist": "李代沫",
+      "has_synced": true,
+      "path": "select/07_勿忘_李代沫.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "勿忘 - From THE FIRST TAKE",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/08_勿忘_-_From_THE_FIRST_TAKE_Awesome_City_Club.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勿忘",
+      "artist": "Awesome City Club",
+      "has_synced": false,
+      "path": "select/pl_01_勿忘_Awesome_City_Club.txt"
+    }
+  ]
+}
